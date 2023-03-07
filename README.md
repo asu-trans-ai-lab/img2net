@@ -24,8 +24,6 @@ solution for improving transportation network data quality and efficiency. This
 has the potential to significantly benefit traffic planning and operation tasks,
 ultimately leading to better traffic management and improved traffic flow.
 
-Team members: Patrick Jiang, Mustafa Gadah, Xuesong (Simon) Zhou at ASU
-
 ## Principle 1: Select gray pixels in the image and output the largest contour.
 
 ## ![Map Description automatically generated](media/dcafd2b81039dcfc0ecc2f68ee682001.PNG)![Icon Description automatically generated with medium confidence](media/4f216ee79908dec2161b45b166c7f9f9.jpeg)![A picture containing text Description automatically generated](media/1fdf27431c11cf33859db9d022e41048.png)
