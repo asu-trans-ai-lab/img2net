@@ -32,26 +32,4 @@ Team members: Patrick Jiang, Mustafa Gadah, Xuesong (Simon) Zhou at ASU
 
 ## Principle 2: Define the ROI area (excluding non-road areas), and then perform edge detection on the road
 
-![Map Description automatically
-generated](media/dcafd2b81039dcfc0ecc2f68ee682001.PNG)
-
-![Map Description automatically
-generated](media/dcafd2b81039dcfc0ecc2f68ee682001.PNG)![A picture containing
-text, indoor, white, old Description automatically
-generated](media/1623af2db3c569ec4bbbd263359c4e85.jpeg)![A picture containing
-window, black, dark Description automatically
-generated](media/ce508d2698400d5ee6f910ec4728ebcc.jpeg)![A picture containing
-black, dark Description automatically
-generated](media/304d02ce3c6f2d0a63a79b2fef0380ce.jpeg)Grayscale processing
-
-ROI Defining
-
-Edge detection
-
-Erosion and dilation
-
-In the context of image processing, "erosion" refers to the process of shrinking
-the boundaries of foreground objects in an image, and "dilation" refers to the
-process of expanding the boundaries of foreground objects. These operations are
-commonly used in image processing for tasks such as noise reduction, edge
-detection, and feature extraction
+## ![A picture containing graphical user interface Description automatically generated](media/4bad053564563570ffed1cdd2fe4f2a9.png)
